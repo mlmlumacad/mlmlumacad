@@ -1,3 +1,4 @@
+<img src="Banner.png" title="Banner">
 <h1 align="center">Enlo! 👋 I'm Meh</h1>
 <h3 align="center">A passionate student-athlete at the University of Santo Tomas</h3>
 
