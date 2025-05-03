@@ -1,8 +1,4 @@
-<img src="Banner.jpg" title="Banner">
 <h1 align="center">Enlo! 👋 I'm Meh</h1>
-<h3 align="center">A passionate student-athlete at the University of Santo Tomas</h3>
-
-- 👯 I’m looking to collaborate on **web development projects especially on the front-end client side.**
 
 - 📫 How to reach me **mlmlumacad@gmail.com**
 
